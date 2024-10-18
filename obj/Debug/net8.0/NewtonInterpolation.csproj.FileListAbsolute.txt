@@ -1,0 +1,14 @@
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.AssemblyInfoInputs.cache
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.AssemblyInfo.cs
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\bin\Debug\net8.0\NewtonInterpolation.exe
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\bin\Debug\net8.0\NewtonInterpolation.deps.json
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\bin\Debug\net8.0\NewtonInterpolation.runtimeconfig.json
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\bin\Debug\net8.0\NewtonInterpolation.dll
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\bin\Debug\net8.0\NewtonInterpolation.pdb
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.dll
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\refint\NewtonInterpolation.dll
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.pdb
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\NewtonInterpolation.genruntimeconfig.cache
+D:\Projects\GitHub\NewtonInterpolation\NewtonInterpolation\obj\Debug\net8.0\ref\NewtonInterpolation.dll
