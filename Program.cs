@@ -43,7 +43,10 @@ class newtoninterpolation
     static void Main()
     {
         double[] x = { 2, 3, 4, 5, 6, 7, 8, 9 };
-        double[] y = { 4, 9, 16, 25, 36, 49, 64, 81 };
+        //double[] y = { 4, 9, 16, 25, 36, 49, 64, 81 }; ^2
+        //double[] y = { 4, 5, 6, 7, 8, 9, 10, 11 }; +2
+        //double[] y = { 4, 6, 8, 10, 12, 14, 16, 18 };*2
+        double[] y = { 1, 2, 3, 4, 5, 6, 7, 8 };//-1
 
         double[] coeff = divideddifference(x, y);
 
